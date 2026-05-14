@@ -6,7 +6,7 @@
   <li>安装pycryptodome</li>
   <pre><code>pip install pycryptodome</code></pre>
   <li>完成后输入</li>
-  <pre><code>python xiaomi_mtk_auth.py</code></pre>
+  <pre><code>python xiaomi_new_mtk_auth.py</code></pre>
 </ol>
 
 ## 说明:
